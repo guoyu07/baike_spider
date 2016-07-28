@@ -5,6 +5,4 @@
 
 环境：Python 3.5.2  Sublime 3
 
-使用：
-
-打开爬虫文件夹在spider_main下运行即可（Sublime 3  运行Python 代码 Ctrl+B）
+使用：打开爬虫文件夹在spider_main下运行即可（Sublime 3  运行Python 代码 Ctrl+B）
